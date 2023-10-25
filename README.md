@@ -2,7 +2,7 @@
  Assignment for CSPC 4800
 
 ## Introduction
-This project aim to provide the insight after analyzing the titanic dataset. The main focus will be on those 3 hypothesises:
+This project aim to provide the insight after analyzing the titanic dataset. The main focus will be on those 3 hypotheses:
 - Determine if the survival rate is associated to the class of passenger
 - Determine if the survival rate is associated to the gender
 - Determine the survival rate is associated to the age
